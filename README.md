@@ -1,4 +1,4 @@
-<h1 color: Red>About Me</h1>: <br>
+<h1 style="color: #b91c1c;">About Me:</h1> <br>
 I specialize in Cognitive Computing, Machine Learning Engineering, and AI-driven software development, creating scalable platforms that combine intelligent automation with modern engineering principles.
 
 My expertise includes:
