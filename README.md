@@ -1,6 +1,18 @@
-# 💫 About Me:
-Cognitive Computing & ML Engineering<br>AI-Driven SaaS Platforms & Scalable Software Solutions<br>Advanced Deep Learning Architectures & Research-Oriented Development<br>Machine Learning, Deep Learning, Data Structures & Algorithms, and Modern Frontend Technologies (React, Tailwind CSS)<br>C++, Algorithm Design, WordPress Engineering, and Applied AI Development<br>I engineer problems so efficiently that solving them becomes inevitable.
+About Me:
+I specialize in Cognitive Computing, Machine Learning Engineering, and AI-driven software development, creating scalable platforms that combine intelligent automation with modern engineering principles.
 
+My expertise includes:
+
+.Advanced Deep Learning Architectures
+.Machine Learning & Algorithm Design
+.Data Structures & Problem Solving
+.React & Tailwind Frontend Development
+.C++,C, Python, Java, JavaScript, Php  Programming
+.WordPress Engineering & Applied AI Systems
+
+I am passionate about transforming difficult challenges into elegant and efficient solutions through research, engineering, and innovation.
+
+Engineering complexity into simplicity.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KaziKishor.80) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyesarestillopen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/km-shoyab-366905243/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kishorscrolls) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmshoyab817@gmail.com) 
