@@ -1,4 +1,4 @@
-About Me:
+About Me: <br>
 I specialize in Cognitive Computing, Machine Learning Engineering, and AI-driven software development, creating scalable platforms that combine intelligent automation with modern engineering principles.
 
 My expertise includes:
