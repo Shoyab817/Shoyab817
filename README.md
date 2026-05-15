@@ -1,16 +1,16 @@
 <h1 style="color: #b91c1c;">About Me:</h1> <br>
-I specialize in Cognitive Computing, Machine Learning Engineering, and AI-driven software development, creating scalable platforms that combine intelligent automation with modern engineering principles.
+I specialize in Cognitive Computing, Machine Learning Engineering, and AI-driven software development, creating scalable platforms that combine intelligent automation with modern engineering principles.<br>
 
-My expertise includes:
+My expertise includes:<br>
 
-.Advanced Deep Learning Architectures
-.Machine Learning & Algorithm Design
-.Data Structures & Problem Solving
-.React & Tailwind Frontend Development
-.C++,C, Python, Java, JavaScript, Php  Programming
-.WordPress Engineering & Applied AI Systems
+.Advanced Deep Learning Architectures<br>
+.Machine Learning & Algorithm Design<br>
+.Data Structures & Problem Solving<br>
+.React & Tailwind Frontend Development<br>
+.C++,C, Python, Java, JavaScript, Php  Programming<br>
+.WordPress Engineering & Applied AI Systems<br>
 
-I am passionate about transforming difficult challenges into elegant and efficient solutions through research, engineering, and innovation.
+I am passionate about transforming difficult challenges into elegant and efficient solutions through research, engineering, and innovation.<br>
 
 Engineering complexity into simplicity.
 
